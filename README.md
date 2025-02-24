@@ -9,14 +9,13 @@ $22 per hour.
 https://drive.google.com/file/d/192xWspvhgR5xahGCWzqN1omfuzTSnE3q/view?usp=sharing
 
 ## Dataset
-Skincare Products:
+Skincare Products: [Kaggle Dataset](https://www.kaggle.com/code/eward96/skincare-recommendation-engine/input]
 This dataset contains information about 1,138 skincare products, with the following columns:
 * product_name: The name of the skincare product. Each entry is unique.
 * product_url: A URL link to the product's webpage.
 * product_type: The category of the product, such as Moisturiser, Mask, etc. There are 14 unique product types, with "Mask" being the most frequent.
 * clean_ingreds: A list of clean ingredients present in each product.
 * price: The price of the product, listed in British Pounds (£).
-[Kaggle Dataset](https://www.kaggle.com/code/eward96/skincare-recommendation-engine/input]
 
 ## Setup
  * Python Version: 3.10
