@@ -5,7 +5,7 @@
 ---
 ## Salary Expectations
 
-$20 per hour.
+$22 per hour.
 
 ## Overview
 
