@@ -10,6 +10,7 @@ https://drive.google.com/file/d/192xWspvhgR5xahGCWzqN1omfuzTSnE3q/view?usp=shari
 
 ## Dataset
 Skincare Products: [Kaggle](https://www.kaggle.com/code/eward96/skincare-recommendation-engine/input)
+
 This dataset contains information about 1,138 skincare products, with the following columns:
 * product_name: The name of the skincare product. Each entry is unique.
 * product_url: A URL link to the product's webpage.
