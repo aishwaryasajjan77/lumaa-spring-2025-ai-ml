@@ -7,6 +7,10 @@
 
 $22 per hour.
 
+## Demo Video Link
+
+https://<>.com
+
 ## Overview
 
 Build a **content-based recommendation system** that, given a **short text description** of a user’s preferences, suggests **similar items** (e.g., movies) from a small dataset. This challenge should take about **3 hours**, so keep your solution **simple** yet **functional**.
