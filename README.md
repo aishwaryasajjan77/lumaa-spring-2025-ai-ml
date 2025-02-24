@@ -24,6 +24,7 @@ This dataset contains information about 1,138 skincare products, with the follow
  * Installing the dependencies: `pip install -r requirements.txt`
 
 ## Running the Project
- * Download the dataset from the .csv in the repository or the Kaggle link.
+ * Download the dataset from the .csv file from the repository or the Kaggle link.
+ * Download the .ipynb file from the repository.
  * List the appropriate dataset path in Cell 2 of the .ipynb notebook, and the parsed dataset path in Cell 3 of the notebook.
  * Run the .ipynb notebook sequentially.
