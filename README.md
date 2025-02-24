@@ -3,6 +3,9 @@
 **Deadline**: Sunday, Feb 23th 11:59 pm PST
 
 ---
+## Salary Expectations
+
+$20 per hour.
 
 ## Overview
 
